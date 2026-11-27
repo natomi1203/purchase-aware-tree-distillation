@@ -5,7 +5,7 @@ This repository hosts the preprint:
 > **Information-Preserving Aggregation under Finite Beam Search: Two Validation Studies of Purchase-Aware Tree Distillation**  
 > Naoyuki Tomita — Independent Researcher, Tokyo, Japan
 
-[Download the paper (PDF)](ptd-finite-beam-boundary-arxiv.pdf)
+[Download the paper (PDF)](https://github.com/natomi1203/purchase-aware-tree-distillation/raw/refs/heads/main/ptd-finite-beam-boundary-arxiv.pdf)
 
 ## What the paper studies
 
