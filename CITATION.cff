@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+type: article
+title: "Information-Preserving Aggregation under Finite Beam Search: Two Validation Studies of Purchase-Aware Tree Distillation"
+authors:
+  - family-names: Tomita
+    given-names: Naoyuki
+date-released: 2026-11-27
+version: 0.1.0
+abstract: "An empirical study of information-preserving tree aggregation for purchase-aware candidate retrieval under finite beam-search budgets, reporting two independent public-data validation studies."
+keywords:
+  - recommender systems
+  - information retrieval
+  - candidate generation
+  - purchase prediction
+  - finite beam search
+  - tree distillation
+repository-code: "https://github.com/natomi1203/purchase-aware-tree-distillation"

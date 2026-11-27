@@ -5,6 +5,8 @@ This repository hosts the preprint:
 > **Information-Preserving Aggregation under Finite Beam Search: Two Validation Studies of Purchase-Aware Tree Distillation**  
 > Naoyuki Tomita — Independent Researcher, Tokyo, Japan
 
+**Keywords:** recommender systems · information retrieval · candidate generation · purchase prediction · finite beam search · tree distillation
+
 [View the paper (PDF)](https://github.com/natomi1203/purchase-aware-tree-distillation/blob/main/paper.pdf)
 
 ## What the paper studies
