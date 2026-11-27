@@ -20,7 +20,7 @@ The studies use public RetailRocket and YOOCHOOSE data. This repository intentio
 The current PDF is eight pages and has SHA-256:
 
 ```
-b2fab396661b04dd6ac8e2fee459d3b746829d5bf880531ced37002141c55643
+03bbd913521a7a7790f38e658ad40a82424fadc5cdec9db113daed31166149fb
 ```
 
 ## Citation
