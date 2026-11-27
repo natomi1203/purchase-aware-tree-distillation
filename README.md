@@ -7,6 +7,10 @@ This repository hosts the preprint:
 
 [Download the paper (PDF)](https://github.com/natomi1203/purchase-aware-tree-distillation/raw/refs/heads/main/ptd-finite-beam-boundary-arxiv.pdf)
 
+GitHub's built-in PDF preview may fail in some browsers. A browser-readable, page-by-page [PNG preview is available here](preview/README.md).
+
+[![First page preview](preview/page-1.png)](preview/README.md)
+
 ## What the paper studies
 
 Candidate generation must keep the search space manageable before a recommender ranks products. This paper studies a tree-distillation aggregation rule that preserves descendant probability mass, and evaluates it under finite beam-search budgets using two independent public-data validation studies.
